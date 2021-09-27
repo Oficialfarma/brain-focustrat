@@ -66,7 +66,6 @@ let colors = [
   new THREE.Color("#D9831A"),
   new THREE.Color("#F2CE1B"),
   new THREE.Color("#BF8211"),
-  // new THREE.Color("#A6600A")
 ];
 let galaxyColors = [
   new THREE.Color("#CFD6DE").multiplyScalar(0.5),
