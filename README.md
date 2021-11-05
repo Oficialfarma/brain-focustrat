@@ -1,1 +1,2 @@
-This brain was made based on three.js with object 3D to get this render
+##THREEJS 
+This repository is a brain made with threejs to render a Obeject 
