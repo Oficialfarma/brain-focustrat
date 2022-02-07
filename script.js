@@ -63,9 +63,10 @@ group.add(points);
 let sampler = null;
 const lines = [];
 let colors = [
-  new THREE.Color("#D9831A"),
-  new THREE.Color("#F2CE1B"),
-  new THREE.Color("#BF8211"),
+  new THREE.Color("#bb661d"),
+  new THREE.Color("#bb661d"),
+  new THREE.Color("#bb661d"),
+  new THREE.Color("#BB661D"),
 ];
 let galaxyColors = [
   new THREE.Color("#CFD6DE").multiplyScalar(0.5),
